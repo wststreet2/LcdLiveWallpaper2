@@ -1,4 +1,7 @@
-<resources>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation"
+    >
 
     <string name="app_name">LCD Live Wallpaper</string>
     <string name="settings_title">Wallpaper Settings</string>

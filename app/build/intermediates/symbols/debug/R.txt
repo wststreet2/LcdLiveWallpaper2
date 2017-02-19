@@ -417,6 +417,7 @@ int string about_email_title 0x7f06002d
 int string about_rate 0x7f06002e
 int string about_settings 0x7f06002f
 int string accept 0x7f06000d
+int string ad_unit_id 0x7f06005a
 int string app_name 0x7f060030
 int string colors_bg 0x7f060031
 int string colors_bg_desc 0x7f060032
@@ -471,7 +472,6 @@ int string eye_candy_desc 0x7f06004a
 int string eye_candy_specific_settings 0x7f06004b
 int string eye_candy_title 0x7f06004c
 int string general_settings 0x7f06004d
-int string interstitial_full_screen 0x7f06005a
 int string perf_framerate_desc 0x7f06004e
 int string perf_framerate_title 0x7f06004f
 int string perf_settings 0x7f060050

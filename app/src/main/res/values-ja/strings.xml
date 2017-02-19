@@ -1,4 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">LCD Live Wallpaper</string>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation"
+    >
+    <string name="app_name">液晶ディスプレイライブ背景</string>
+    <string name="about_creators_title">創造者ら</string>
+    <string name="about_donate_title">寄付する</string>
+    <string name="about_email_desc">wststreet2@gmail.com</string>
+    <string name="about_email_title">Eメール</string>
+    <string name="about_rate">レートする</string>
+    <string name="about_settings">約</string>
+    <string name="colors_bg">背景色</string>
+    <string name="colors_bg_desc">0xRRGGBB ( R = 赤, G = 緑, B=青 16進形式 )</string>
+    <string name="colors_custom">カスタム色</string>
+    <string name="colors_px">ピクセルの色</string>
+    <string name="colors_px_desc">0xRRGGBB ( R = 赤, G = 緑, B=青 16進形式 )</string>
+    <string name="colors_set">色のセット</string>
+    <string name="colors_settings">色</string>
+    <string name="datetime_bigbin_title">大きなバイナリの時計</string>
+    <string name="datetime_clocktype_title">時計タイプ</string>
+    <string name="datetime_dateformat">日付形式</string>
+    <string name="datetime_invertbin_title">バイナリ色を反転します。</string>
+    <string name="datetime_settings">日時</string>
+    <string name="datetime_showclock_desc">時を表示する</string>
+    <string name="datetime_showdate_desc">日付を表示する</string>
+    <string name="datetime_showdate_title">日付</string>
+    <string name="datetime_showclock_title">時</string>
+    <string name="datetime_specific_settings">日時設定</string>
+    <string name="donate_dialog_cancel">いいえ</string>
+    <string name="donate_dialog_maybe">えっと。。。</string>
+    <string name="donate_dialog_ok">はい</string>
+    <string name="donate_dialog_message">このアプリを買い物を考えていますか?</string>
+    <string name="donate_dialog_title">寄付する</string>
+    <string name="eye_candy_desc">背景ピクセル</string>
+    <string name="eye_candy_specific_settings">アイ　キャンデイ設定</string>
+    <string name="eye_candy_title">アイ　キャンデイ</string>
+    <string name="general_settings">一般設定</string>
+    <string name="perf_framerate_title">フレームレート</string>
+    <string name="perf_framerate_desc">1秒間にレンダリングする回数</string>
+    <string name="perf_settings">パフォーマンス</string>
+    <string name="random_density_title">ランダムピクセルの密度</string>
+    <string name="random_density_desc">画面上のピクセル数</string>
+    <string name="random_settings">ランダム設定</string>
+    <string name="settings_title">壁紙の設定</string>
+    <string name="wallpaper_desc">ライブ壁紙LCDのように見えます</string>
+    <string name="waterfall_maxnum_desc">ライン数</string>
+    <string name="waterfall_maxnum_title">Maxライン数</string>
+    <string name="waterfall_overlap">重複</string>
+    <string name="waterfall_settings">ウォーターフォールの設定</string>
+    <string name="datetime_clocktype_desc">バイナリまたは小数</string>
 </resources>

@@ -111,9 +111,9 @@
     <string name="datetime_invertbin_desc"/>
     <string name="datetime_invertbin_title">Inversează Culorile Ceasului Binar</string>
     <string name="datetime_settings">Ora și Data</string>
-    <string name="datetime_showclock_desc"/>
+    <string name="datetime_showclock_desc">Afișează Ora</string>
     <string name="datetime_showclock_title">Afișează Ora</string>
-    <string name="datetime_showdate_desc"/>
+    <string name="datetime_showdate_desc">Afișează Data</string>
     <string name="datetime_showdate_title">Afișează Data</string>
     <string name="datetime_specific_settings">Setări Specifice Orei și Datei</string>
     <string msgid="4722375419392727435" name="debug_menu_ad_information">"Informații privind anunțul"</string>

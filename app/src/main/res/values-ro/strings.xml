@@ -1,5 +1,7 @@
-<resources>
-
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation"
+    >
     <string name="app_name">Fundal Live LCD</string>
     <string name="settings_title">Setări</string>
     <string name="wallpaper_desc">Un fundal live care seamănă cu un ecran cu cristale lichide</string>
@@ -25,9 +27,9 @@
     <string name="colors_px_desc">0xRRVVAA ( R = Rosu, V = Verde, G=Albastru in format Hexazecimal )</string>
     <string name="datetime_settings">Ora și Data</string>
     <string name="datetime_showclock_title">Afișează Ora</string>
-    <string name="datetime_showclock_desc"></string>
+    <string name="datetime_showclock_desc">Afișează Ora</string>
     <string name="datetime_showdate_title">Afișează Data</string>
-    <string name="datetime_showdate_desc"></string>
+    <string name="datetime_showdate_desc">Afișează Data</string>
     <string name="datetime_specific_settings">Setări Specifice Orei și Datei</string>
     <string name="datetime_clocktype_title">Tip Oră</string>
     <string name="datetime_clocktype_desc">Afișare ora în format binar sau zecimal (notă: liniile pentru ceasul binar sunt //||\\\\ Ora MinuteSecunde)</string>

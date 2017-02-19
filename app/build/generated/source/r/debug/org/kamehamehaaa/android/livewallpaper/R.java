@@ -1096,6 +1096,7 @@ containing a value of this type.
         public static final int about_rate=0x7f06002e;
         public static final int about_settings=0x7f06002f;
         public static final int accept=0x7f06000d;
+        public static final int ad_unit_id=0x7f06005a;
         public static final int app_name=0x7f060030;
         public static final int colors_bg=0x7f060031;
         public static final int colors_bg_desc=0x7f060032;
@@ -1150,7 +1151,6 @@ containing a value of this type.
         public static final int eye_candy_specific_settings=0x7f06004b;
         public static final int eye_candy_title=0x7f06004c;
         public static final int general_settings=0x7f06004d;
-        public static final int ad_unit_id =0x7f06005a;
         public static final int perf_framerate_desc=0x7f06004e;
         public static final int perf_framerate_title=0x7f06004f;
         public static final int perf_settings=0x7f060050;

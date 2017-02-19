@@ -266,6 +266,7 @@
     <string name="about_rate">Rate this app</string>
     <string name="about_settings">About</string>
     <string name="accept">Accept</string>
+    <string name="ad_unit_id">ca-app-pub-2569572093580074/1608209542</string>
     <string name="app_name">LCD Live Wallpaper</string>
     <string name="colors_bg">Background Color</string>
     <string name="colors_bg_desc">0xRRGGBB ( R = Red, G = Green, B=Blue Hexadecimal format )</string>
@@ -320,7 +321,6 @@
     <string name="eye_candy_specific_settings">EyeCandy Specific Settings</string>
     <string name="eye_candy_title">EyeCandy</string>
     <string name="general_settings">General Settings</string>
-    <string name="interstitial_full_screen">ca-app-pub-2569572093580074/7316665943</string>
     <string name="perf_framerate_desc">How many times per second should the screen refresh? Lower values mean better battery life.</string>
     <string name="perf_framerate_title">Framerate</string>
     <string name="perf_settings">Performance</string>
