@@ -68,7 +68,7 @@ public final class R {
 		public static final int none = 0x7f0d0012;
 		public static final int normal = 0x7f0d0007;
 		public static final int radio = 0x7f0d0037;
-		public static final int seek_bar = 0x7f0d0047;
+		public static final int seek_bar = 0x7f0d0046;
 		public static final int standard = 0x7f0d001b;
 		public static final int wide = 0x7f0d001c;
 	}

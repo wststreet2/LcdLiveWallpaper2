@@ -130,7 +130,6 @@
 
     <!-- SETTINGS MENU ARRAY VALUES END -->
 
-    <!-- AdMob ad unit IDs -->
-    <string name="interstitial_full_screen">ca-app-pub-2569572093580074/7316665943</string>
+
 
 </resources>
