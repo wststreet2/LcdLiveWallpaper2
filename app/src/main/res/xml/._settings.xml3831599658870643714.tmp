@@ -1,0 +1,146 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="livewallpaper_settings"
+    android:title="@string/settings_title" >
+
+    <lwp.AdmobPreference android:key="ad" />
+
+    <PreferenceCategory
+        android:key="bg_set_cat"
+        android:title="General Settings" >
+        <ListPreference
+            android:defaultValue="gradient"
+            android:dialogTitle="EyeCandy"
+            android:entries="@array/eyeCandyArray"
+            android:entryValues="@array/eyeCandyArray"
+            android:key="eye_candy"
+            android:summary="Select what the background pixels should look like"
+            android:title="EyeCandy" />
+
+        <PreferenceScreen
+            android:key="specific_pref_screen"
+            android:title="EyeCandy specific settings" >
+            <PreferenceScreen
+                android:key="random_pref_screen"
+                android:title="Random settings" >
+                <lwp.SeekBarPreference
+                    android:defaultValue="50"
+                    android:dialogMessage="Density"
+                    android:key="random_pixel_density"
+                    android:max="100"
+                    android:summary="How much of the random pixels should be active"
+                    android:text="%"
+                    android:title="Random Pixel Density" />
+            </PreferenceScreen>
+            <PreferenceScreen
+                android:key="waterfall_pref_screen"
+                android:title="Waterfall settings" >
+                <EditTextPreference
+                    android:defaultValue="100"
+                    android:key="waterfall_strings"
+                    android:title="Max Number of Strings" />
+
+                <CheckBoxPreference
+                    android:defaultValue="true"
+                    android:key="waterfall_overlap"
+                    android:title="Overlapping" />
+                    />
+            </PreferenceScreen>
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:key="colors_pref_screen"
+            android:title="Colors" >
+            <EditTextPreference
+                android:defaultValue="0x88AA88"
+                android:key="color"
+                android:summary="[0xRRGGBB] Good ideas: 0x88AA88, 0x99AA99, 0x888888, 0x999999"
+                android:title="Background Color" >
+            </EditTextPreference>
+            <EditTextPreference
+                android:defaultValue="0x333333"
+                android:key="pixel_color"
+                android:summary="[0xRRGGBB] Default: 0x333333 for light backgrounds, 0xffffff for dark ones"
+                android:title="Pixel Color" >
+            </EditTextPreference>
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="detail_set_cat"
+        android:title="Date and Time" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="show_clock"
+            android:summary="Enable to show the time on the virtual LCD"
+            android:title="Show Clock" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="show_date"
+            android:summary="Enable to show the date on the virtual LCD"
+            android:title="Show Date" />
+
+        <PreferenceScreen
+            android:key="detail_set_cat"
+            android:title="Date and Time specific settings" >
+            <ListPreference
+                android:defaultValue="decimal"
+                android:dialogTitle="Clock Style"
+                android:entries="@array/clockType"
+                android:entryValues="@array/clockType"
+                android:key="clock_type"
+                android:summary="Do you want the time in decimals or in binary (note: the lines for binary are //||\\\\ HH MM SS)"
+                android:title="Clock Type" />
+            <ListPreference
+                android:defaultValue="dd/MM/yy"
+                android:dialogTitle="Date Format"
+                android:entries="@array/dateFormat"
+                android:entryValues="@array/dateFormat"
+                android:key="date_format"
+                android:title="Date Format" />
+
+            <CheckBoxPreference
+                android:defaultValue="false"
+                android:key="black_clock"
+                android:summary="Invert the colors of the binary clock"
+                android:title="Black Binary Clock" >
+            </CheckBoxPreference>
+            <CheckBoxPreference
+                android:defaultValue="false"
+                android:key="big_clock"
+                android:summary="Show bigger binary clock (if it fits your screen)"
+                android:title="Big Binary Clock" >
+            </CheckBoxPreference>
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="perf_set_cat"
+        android:title="Performance" >
+        <EditTextPreference
+            android:defaultValue="1"
+            android:inputType="number"
+            android:key="frame_rate"
+            android:summary="How many times per second should the screen refresh? Lower values mean better battery life."
+            android:title="Frame Rate" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="about_set_cat"
+        android:title="About" >
+        <Preference
+            android:summary="Cezar FLESERIU\nAndrei SIRBU"
+            android:title="Creators" >
+        </Preference>
+        <Preference
+            android:summary="Opens http://www.kamehamehaaa.org/ there you can find a paypal donate widget"
+            android:title="Donate" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.kamehamehaaa.org/" />
+        </Preference>
+        <Preference
+            android:summary="wststreet2@gmail.com"
+            android:title="Email" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="mailto:wststreet2@gmail.com" />
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

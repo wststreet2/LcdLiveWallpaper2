@@ -1,0 +1,133 @@
+<resources>
+
+    <string name="app_name">Fundal Live LCD</string>
+    <string name="settings_title">Setări</string>
+    <string name="wallpaper_desc">Un fundal live care seamănă cu un ecran cu cristale lichide</string>
+
+    <!-- SETTINGS MENU TEXT -->
+    <string name="general_settings">Setări Generale</string>
+    <string name="eye_candy_title">Efecte</string>
+    <string name="eye_candy_desc">Alege cum să arate fundalul</string>
+    <string name="eye_candy_specific_settings">Setări Specifice Efectelor</string>
+    <string name="random_settings">Setări pentru efectul Aleator</string>
+    <string name="random_density_title">Densitatea Pixelilor</string>
+    <string name="random_density_desc">Câți pixeli să fie activi pe ecran la un moment dat</string>
+    <string name="waterfall_settings">Setări Cascadă</string>
+    <string name="waterfall_maxnum_title">Numărul maxim de fâșii</string>
+    <string name="waterfall_maxnum_desc">Alege câte fâșii pot fi pe ecran in același timp</string>
+    <string name="waterfall_overlap">Suprapunere</string>
+    <string name="colors_settings">Culori</string>
+    <string name="colors_set">Seturi de Culori</string>
+    <string name="colors_custom">Folosește Culori Personalizate</string>
+    <string name="colors_bg">Culoare Fundal</string>
+    <string name="colors_px">Culoare Pixel</string>
+    <string name="colors_bg_desc">0xRRVVAA ( R = Rosu, V = Verde, G=Albastru in format Hexazecimal )</string>
+    <string name="colors_px_desc">0xRRVVAA ( R = Rosu, V = Verde, G=Albastru in format Hexazecimal )</string>
+    <string name="datetime_settings">Ora și Data</string>
+    <string name="datetime_showclock_title">Afișează Ora</string>
+    <string name="datetime_showclock_desc"></string>
+    <string name="datetime_showdate_title">Afișează Data</string>
+    <string name="datetime_showdate_desc"></string>
+    <string name="datetime_specific_settings">Setări Specifice Orei și Datei</string>
+    <string name="datetime_clocktype_title">Tip Oră</string>
+    <string name="datetime_clocktype_desc">Afișare ora în format binar sau zecimal (notă: liniile pentru ceasul binar sunt //||\\\\ Ora MinuteSecunde)</string>
+    <string name="datetime_dateformat">Format Dată</string>
+    <string name="datetime_invertbin_title">Inversează Culorile Ceasului Binar</string>
+    <string name="datetime_invertbin_desc"></string>
+    <string name="datetime_bigbin_title">Ceas Binar Mare</string>
+    <string name="datetime_bigbin_desc"></string>
+    <string name="perf_settings">Performanță</string>
+    <string name="perf_framerate_title">Rată de redesenare</string>
+    <string name="perf_framerate_desc">De câte ori pe secundă să se redeseneze imaginea, numere mari implică o durata mai scăzută a bateriei.</string>
+    <string name="about_settings">Despre</string>
+    <string name="about_creators_title">Făuritori</string>
+    <string name="about_creators_desc">Cezar FLEȘERIU\nAndrei SÎRBU</string>
+    <string name="about_rate">Acordă Calificativ</string>
+    <string name="about_donate_title">Donează</string>
+    <string name="about_donate_desc"></string>
+    <string name="about_email_title">Email</string>
+    <string name="about_email_desc">wststreet2@gmail.com</string>
+
+    <!-- SETTINGS MENU END -->
+
+    <!-- DONATE DIALOG START -->
+    <string name="donate_dialog_title">Donati</string>
+    <string name="donate_dialog_message">V-ati gandit vreodata sa cumparati varianta pentru donatii?</string>
+    <string name="donate_dialog_ok">Da</string>
+    <string name="donate_dialog_maybe">Poate</string>
+    <string name="donate_dialog_cancel">Nu</string>
+    <!-- DONATE DIALOG END -->
+
+    <!-- SETTINGS MENU ARRAYS -->
+
+    <string-array name="color_styles">
+        <item name="Classic Gray">Gri Clasic</item>
+        <item name="Classic Green">Verde Clasic</item>
+        <item name="Classic Orange">Portocaliu Clasic</item>
+        <item name="Blue Backlight">Lumină Albastră</item>
+        <item name="White on Black">Alb pe Negru</item>
+        <item name="Matrix Green">Verde Matrix</item>
+        <item name="Red on Black">Roșu pe Negru</item>
+        <item name="Blue on Black">Albastru pe Negru</item>
+        <item name="White on Blue">Alb pe Albastru</item>
+    </string-array>
+    <string-array name="eyeCandyArray">
+        <item name="none">Nimic</item>
+        <item name="checkerbox">Tablă de șah</item>
+        <item name="gradient">Gradient</item>
+        <item name="random">Aleator</item>
+        <item name="waterfall">Cascadă</item>
+    </string-array>
+    <string-array name="clockType">
+        <item name="decimal">Zecimal</item>
+        <item name="binary">Binar</item>
+    </string-array>
+    <string-array name="dateFormat">
+        <item name="european">European (dd/MM/yy)</item>
+        <item name="american">American (MM/dd/yy)</item>
+        <item name="japanese">Japonez (yy/MM/dd)</item>
+    </string-array>
+
+    <!-- SETTINGS MENU ARRAYS END -->
+
+
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+
+
+    <!-- SETTINGS MENU ARRAY VALUES -->
+
+    <string-array name="eyeCandyArray_values">
+        <item name="none">None</item>
+        <item name="checkerbox">Checkerbox</item>
+        <item name="gradient">Gradient</item>
+        <item name="random">Random</item>
+        <item name="waterfall">Waterfall</item>
+    </string-array>
+    <string-array name="clockType_values">
+        <item name="decimal">Decimal</item>
+        <item name="binary">Binary</item>
+    </string-array>
+    <string-array name="dateFormat_values">
+        <item name="european">dd/MM/yy</item>
+        <item name="american">MM/dd/yy</item>
+        <item name="japanese">yy/MM/dd</item>
+    </string-array>
+    <string-array name="color_styles_values">
+        <item name="Classic Gray">999999|333333</item>
+        <item name="Classic Green">99AA99|333333</item>
+        <item name="Classic Orange">FEDEAC|333333</item>
+        <item name="Blue Backlight">007FFF|333333</item>
+        <item name="White on Black">000000|FFFFFF</item>
+        <item name="Matrix Green">000000|00CC00</item>
+        <item name="Red on Black">000000|FF0000</item>
+        <item name="Blue on Black">000000|0000FF</item>
+        <item name="White on Blue">0070FF|FFFFFF</item>
+    </string-array>
+
+    <!-- SETTINGS MENU ARRAY VALUES END -->
+
+</resources>

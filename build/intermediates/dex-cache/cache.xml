@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_4761fb5a178b53c2dd060f23da7dc470346e322f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_e872e786f288077bc81e81636ed4d04cf1a50b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.2.0_762b057978b37f5e5654d71ba1ec41e7242665d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_53b2ab01f14e5e4f92e37abc6acc8102a47bf33c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_0838b4dca62e533abab712ebc55f83bad45dd562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_9a4bc3f05909d70b0adbebea57384b01ab85edfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_c151350038dad1da44d566b49ad6b08951368c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_bf3564cfe33066dfddb73b066d49b9567612d600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_ef549fac365c83fd4d05dad8abbbc0771ff070d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_ee59895f298d9a8eba1b584740e39e7633661331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_a92943cdf74cac8f590dcff22807a49ca976adb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_261d5b5fa0f4b77389964aea353788f4e72b63ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.2.0_2e1c5d497ab206fa3b0407649b0a18b5b1d6a4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_133683dbab1bb1bed0cabc9bb789b9878a5a0225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.2.0_d559b255a6a1f5186f3cb468346b231d4e0dc82c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="Q:\PROGRAMARE\Android\LcdLiveWallpaper2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_90ab2aebd70b25e5f5166b5db79f8c56b6862cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_d6513230faca8f581a46e2bd6860d5f257b574e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.2.0_5c8080a2700101efbef76ca5259451140d46aadd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_44c65135b485b43eb0b72edb3a3ab4774c52df5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_b4060ac6381f4150729af3c911ee0ef0bcc0e6ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="Q:\PROGRAMARE\Android\LiveWallpaper\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_38ab400871a178acf1931132efa73af2bbcb60af.jar" />
+    </item>
+
+</items>

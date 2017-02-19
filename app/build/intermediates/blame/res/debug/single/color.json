@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

@@ -1,0 +1,134 @@
+<resources>
+
+    <string name="app_name">Flüssigkristall-Anzeigevorrichtung (LCD) Active Tapete</string>
+    <string name="settings_title">Tapeteneinstellungen</string>
+    <string name="wallpaper_desc">Eine active Tapete die wie ein LCD aussieht</string>
+
+    <!-- SETTINGS MENU TEXT -->
+    <string name="general_settings">Generaleinstellungen</string>
+    <string name="eye_candy_title">Augenschmaus</string>
+    <string name="eye_candy_desc">Auswahl der Hintergrundpixeln</string>
+    <string name="eye_candy_specific_settings">Spezifische Augenschmauseinstellungen</string>
+    <string name="random_settings">Einstellungen für den Zufällig Effekt</string>
+    <string name="random_density_title">Dichte der Zufallspixeln</string>
+    <string name="random_density_desc">Wieviel % vom Hintergrund mit Pixeln bedeckt wird</string>
+    <string name="waterfall_settings">Eingstellungen für den Wasserfall Effekt</string>
+    <string name="waterfall_maxnum_title">Der maximale Linienwert</string>
+    <string name="waterfall_maxnum_desc">Wie viele Linien auf einmal auf dem Bildschirm fallen können</string>
+    <string name="waterfall_overlap">Übereinandersetzung der Linien</string>
+    <string name="colors_settings">Farben</string>
+    <string name="colors_set">Farbenset</string>
+    <string name="colors_custom">Benützen von Eigenfarben</string>
+    <string name="colors_bg">Hindergrundfarbe </string>
+    <string name="colors_px">Pixelfarbe</string>
+    <string name="colors_bg_desc">0xRRGGBB ( R = Rot, G = Grün, B=Blau Hexadezimales Format )</string>
+    <string name="colors_px_desc">0xRRGGBB ( R = Rot, G = Grün, B=Blau Hexadezimales Format )</string>
+    <string name="datetime_settings">Datum und Zeit</string>
+    <string name="datetime_showclock_title">Uhr anzeigen</string>
+    <string name="datetime_showclock_desc">Ermöglichung des Anzeigens der Zeit auf dem virtuellen LCD</string>
+    <string name="datetime_showdate_title">Datum anzeigen</string>
+    <string name="datetime_showdate_desc">Eröglichung des Anzeigens des Datums auf dem virtuellen LCD</string>
+    <string name="datetime_specific_settings">Spezifische Einstellungen für Zeit und Datum</string>
+    <string name="datetime_clocktype_title">Uhrentyp</string>
+    <string name="datetime_clocktype_desc">Wollen Sie die Zeit in Zahlen oder in einem binären Code(Achtung: das Format für die binäre Zeit ist //||\\\\ HH MM SS)</string>
+    <string name="datetime_dateformat">Datumsformat</string>
+    <string name="datetime_invertbin_title">Die Farben der binären Uhr umkehren</string>
+    <string name="datetime_invertbin_desc"></string>
+    <string name="datetime_bigbin_title">Große binäre Uhr</string>
+    <string name="datetime_bigbin_desc"></string>
+    <string name="perf_settings">Leistung</string>
+    <string name="perf_framerate_title">Bildrate</string>
+    <string name="perf_framerate_desc">Wieviele Male pro Sekunde sollte sich der Bildschirm erfrischen? Kleinere Werte bedeuten längeres Batterieleben.</string>
+    <string name="about_settings">Andere Informationen</string>
+    <string name="about_creators_title">Schöpfer</string>
+    <string name="about_creators_desc">Cezar FLESERIU\nAndrei SIRBU</string>
+    <string name="about_rate">App benoten</string>
+    <string name="about_donate_title">Spenden</string>
+    <string name="about_donate_desc"></string>
+    <string name="about_email_title">Email</string>
+    <string name="about_email_desc">wststreet2@gmail.com</string>
+
+    <!-- SETTINGS MENU END -->
+
+    <!-- DONATE DIALOG START -->
+    <string name="donate_dialog_title">Donate</string>
+    <string name="donate_dialog_message">Have you ever considered buying the donate version? It would help us.</string>
+    <string name="donate_dialog_ok">Yes</string>
+    <string name="donate_dialog_maybe">Maybe</string>
+    <string name="donate_dialog_cancel">No</string>
+    <!-- DONATE DIALOG END -->
+
+
+    <!-- SETTINGS MENU ARRAYS -->
+
+    <string-array name="color_styles">
+        <item name="Classic Gray">Klassisch Grau</item>
+        <item name="Classic Green">Klassisch Grün</item>
+        <item name="Classic Orange">Klassisch Orange</item>
+        <item name="Blue Backlight">Blaues Hinterlicht</item>
+        <item name="White on Black">Weiss auf Schwarz</item>
+        <item name="Matrix Green">Matrix Grün</item>
+        <item name="Red on Black">Rot auf Schwarz</item>
+        <item name="Blue on Black">Blau auf Schwarz</item>
+        <item name="White on Blue">Weiss auf Blau</item>
+    </string-array>
+    <string-array name="eyeCandyArray">
+        <item name="none">Nichts</item>
+        <item name="checkerbox">Schachtisch</item>
+        <item name="gradient">Gradient</item>
+        <item name="random">Zufällig</item>
+        <item name="waterfall">Wasserfall</item>
+    </string-array>
+    <string-array name="clockType">
+        <item name="decimal">Numerisch basis 10</item>
+        <item name="binary">Binär</item>
+    </string-array>
+    <string-array name="dateFormat">
+        <item name="european">Europäisch (tt/MM/jj)</item>
+        <item name="american">Amerikanisch (MM/tt/jj)</item>
+        <item name="japanese">Japanisch (jj/MM/tt)</item>
+    </string-array>
+
+    <!-- SETTINGS MENU ARRAYS END -->
+
+
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+    <!-- DO NOT TRANSLATE BELOW THIS LINE!!!! -->
+
+
+    <!-- SETTINGS MENU ARRAY VALUES -->
+
+    <string-array name="eyeCandyArray_values">
+        <item name="none">None</item>
+        <item name="checkerbox">Checkerbox</item>
+        <item name="gradient">Gradient</item>
+        <item name="random">Random</item>
+        <item name="waterfall">Waterfall</item>
+    </string-array>
+    <string-array name="clockType_values">
+        <item name="decimal">Decimal</item>
+        <item name="binary">Binary</item>
+    </string-array>
+    <string-array name="dateFormat_values">
+        <item name="european">dd/MM/yy</item>
+        <item name="american">MM/dd/yy</item>
+        <item name="japanese">yy/MM/dd</item>
+    </string-array>
+    <string-array name="color_styles_values">
+        <item name="Classic Gray">999999|333333</item>
+        <item name="Classic Green">99AA99|333333</item>
+        <item name="Classic Orange">FEDEAC|333333</item>
+        <item name="Blue Backlight">007FFF|333333</item>
+        <item name="White on Black">000000|FFFFFF</item>
+        <item name="Matrix Green">000000|00CC00</item>
+        <item name="Red on Black">000000|FF0000</item>
+        <item name="Blue on Black">000000|0000FF</item>
+        <item name="White on Blue">0070FF|FFFFFF</item>
+    </string-array>
+
+    <!-- SETTINGS MENU ARRAY VALUES END -->
+
+</resources>
