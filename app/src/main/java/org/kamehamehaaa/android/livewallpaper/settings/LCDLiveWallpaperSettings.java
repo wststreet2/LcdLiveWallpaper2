@@ -33,9 +33,6 @@ public class LCDLiveWallpaperSettings extends PreferenceActivity implements
 
 	private static final String PREFS_NAME = "LcdLiveWallpaperSettings";
 
-	private AdView mAdView;
-	private InterstitialAd mInterstitialAd;
-
 	public static String getPrefsName() {
 		return PREFS_NAME;
 	}
@@ -43,31 +40,6 @@ public class LCDLiveWallpaperSettings extends PreferenceActivity implements
 	protected void onCreate(Bundle icicle) {
 		super.onCreate(icicle);
 		addPreferencesFromResource(R.xml.settings);
-
-		setContentView(R.layout.activity_second);
-
-		mInterstitialAd = new InterstitialAd(this);
-
-		// set the ad unit ID
-		mInterstitialAd.setAdUnitId(getString(R.string.interstitial_full_screen));
-
-		AdRequest adRequest = new AdRequest.Builder()
-				.build();
-
-		// Load ads into Interstitial Ads
-		mInterstitialAd.loadAd(adRequest);
-
-		mInterstitialAd.setAdListener(new AdListener() {
-			public void onAdLoaded() {
-				showInterstitial();
-			}
-		});
-	}
-
-	private void showInterstitial() {
-		if (mInterstitialAd.isLoaded()) {
-			mInterstitialAd.show();
-		}
 	}
 
 	@Override

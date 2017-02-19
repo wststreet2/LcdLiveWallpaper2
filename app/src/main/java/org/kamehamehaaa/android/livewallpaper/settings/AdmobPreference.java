@@ -27,6 +27,7 @@ public class AdmobPreference extends Preference {
     protected View onCreateView(ViewGroup parent) {
         //override here to return the admob ad instead of a regular preference display
         LayoutInflater inflater = (LayoutInflater) getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+        parent.setPadding(0,0,0,0);
         View view = inflater.inflate(R.layout.admob_preference, null);
         AdView adView = (AdView)view.findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
