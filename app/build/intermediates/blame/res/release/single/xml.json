@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\release\\xml\\settings.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\release\\xml\\livewallpaper.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\xml\\livewallpaper.xml"
+    }
+]
