@@ -20,12 +20,12 @@
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\abc_ic_go.png",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_go.png"
-    },
-    {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_light.9.png",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\abc_ic_go.png",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable-xxhdpi\\abc_ic_go.png"
     },
     {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\abc_ic_clear_search_api_holo_light.png",

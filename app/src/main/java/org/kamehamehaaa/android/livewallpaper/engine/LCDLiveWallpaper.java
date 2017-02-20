@@ -25,9 +25,13 @@ import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.WindowManager;
 
+import com.google.firebase.analytics.FirebaseAnalytics;
+
 public class LCDLiveWallpaper extends WallpaperService {
 
-	private class MyWallpaperEngine extends Engine {
+    private FirebaseAnalytics mFirebaseAnalytics;
+
+    private class MyWallpaperEngine extends Engine {
 		private Handler mHandler = new Handler();
 		private SurfaceHolder mSurfaceHolder = null;
 		private Canvas mCanvas = null;
@@ -199,6 +203,7 @@ public class LCDLiveWallpaper extends WallpaperService {
 		@Override
 		public void onCreate(SurfaceHolder surfaceHolder) {
 			super.onCreate(surfaceHolder);
+
 			mSurfaceHolder = surfaceHolder;
 			mSurfaceHolder.setFormat(PixelFormat.RGBA_8888);
 			onPixelPaint = new Paint();
@@ -340,6 +345,7 @@ public class LCDLiveWallpaper extends WallpaperService {
 	@Override
 	public Engine onCreateEngine() {
 		context = getApplicationContext();
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(context);
 		engine = new MyWallpaperEngine();
 		return engine;
 	}

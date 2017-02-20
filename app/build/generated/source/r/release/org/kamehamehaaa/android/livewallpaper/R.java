@@ -1142,6 +1142,7 @@ containing a value of this type.
         public static final int debug_menu_title=0x7f060023;
         public static final int debug_menu_troubleshooting=0x7f060024;
         public static final int decline=0x7f060025;
+        public static final int default_web_client_id=0x7f06005b;
         public static final int donate_dialog_cancel=0x7f060045;
         public static final int donate_dialog_maybe=0x7f060046;
         public static final int donate_dialog_message=0x7f060047;
@@ -1150,7 +1151,13 @@ containing a value of this type.
         public static final int eye_candy_desc=0x7f06004a;
         public static final int eye_candy_specific_settings=0x7f06004b;
         public static final int eye_candy_title=0x7f06004c;
+        public static final int firebase_database_url=0x7f06005c;
+        public static final int gcm_defaultSenderId=0x7f06005d;
         public static final int general_settings=0x7f06004d;
+        public static final int google_api_key=0x7f06005e;
+        public static final int google_app_id=0x7f06005f;
+        public static final int google_crash_reporting_api_key=0x7f060060;
+        public static final int google_storage_bucket=0x7f060061;
         public static final int perf_framerate_desc=0x7f06004e;
         public static final int perf_framerate_title=0x7f06004f;
         public static final int perf_settings=0x7f060050;

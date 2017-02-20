@@ -312,6 +312,7 @@
     <string name="debug_menu_title">Select a Debug Mode</string>
     <string name="debug_menu_troubleshooting">Troubleshooting</string>
     <string name="decline">Decline</string>
+    <string name="default_web_client_id" translatable="false">157464238103-1mcr3o137ohrkd996lnqf5jt5c1st4sm.apps.googleusercontent.com</string>
     <string name="donate_dialog_cancel">No</string>
     <string name="donate_dialog_maybe">Maybe</string>
     <string name="donate_dialog_message">Have you ever considered buying the donate version? It would help us.</string>
@@ -320,7 +321,13 @@
     <string name="eye_candy_desc">Select what the background pixels should look like</string>
     <string name="eye_candy_specific_settings">EyeCandy Specific Settings</string>
     <string name="eye_candy_title">EyeCandy</string>
+    <string name="firebase_database_url" translatable="false">https://lcdlwpfree.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">157464238103</string>
     <string name="general_settings">General Settings</string>
+    <string name="google_api_key" translatable="false">AIzaSyCu4GnF9G47XilqE8WnFGDRqGHBwzfm4x8</string>
+    <string name="google_app_id" translatable="false">1:157464238103:android:83544a2811f28057</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCu4GnF9G47XilqE8WnFGDRqGHBwzfm4x8</string>
+    <string name="google_storage_bucket" translatable="false">lcdlwpfree.appspot.com</string>
     <string name="perf_framerate_desc">How many times per second should the screen refresh? Lower values mean better battery life.</string>
     <string name="perf_framerate_title">Framerate</string>
     <string name="perf_settings">Performance</string>

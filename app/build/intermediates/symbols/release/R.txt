@@ -463,6 +463,7 @@ int string debug_menu_creative_preview 0x7f060022
 int string debug_menu_title 0x7f060023
 int string debug_menu_troubleshooting 0x7f060024
 int string decline 0x7f060025
+int string default_web_client_id 0x7f06005b
 int string donate_dialog_cancel 0x7f060045
 int string donate_dialog_maybe 0x7f060046
 int string donate_dialog_message 0x7f060047
@@ -471,7 +472,13 @@ int string donate_dialog_title 0x7f060049
 int string eye_candy_desc 0x7f06004a
 int string eye_candy_specific_settings 0x7f06004b
 int string eye_candy_title 0x7f06004c
+int string firebase_database_url 0x7f06005c
+int string gcm_defaultSenderId 0x7f06005d
 int string general_settings 0x7f06004d
+int string google_api_key 0x7f06005e
+int string google_app_id 0x7f06005f
+int string google_crash_reporting_api_key 0x7f060060
+int string google_storage_bucket 0x7f060061
 int string perf_framerate_desc 0x7f06004e
 int string perf_framerate_title 0x7f06004f
 int string perf_settings 0x7f060050
