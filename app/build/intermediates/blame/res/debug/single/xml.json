@@ -1,15 +1,7 @@
 [
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\livewallpaper.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\src\\main\\res\\xml\\livewallpaper.xml"
-    },
-    {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\xml\\settings.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\src\\main\\res\\xml\\settings.xml"
     },
     {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\livewallpaper.xml",

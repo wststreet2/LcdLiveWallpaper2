@@ -157,7 +157,7 @@
             android:title="@string/about_donate_title">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://play.google.com/store/apps/details?id=org.kamehamehaaa.android.livewallpaperpro" />
+                android:data="https://play.google.com/store/apps/details?id=org.kamehamehaaa.android.livewallpaper" />
         </Preference>
         <Preference
             android:summary="@string/about_email_desc"

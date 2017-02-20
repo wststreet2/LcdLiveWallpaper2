@@ -1,71 +1,75 @@
 [
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
     },
     {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogview.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\src\\main\\res\\layout\\dialogview.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admob_preference.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\layout\\admob_preference.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\src\\main\\res\\layout\\activity_second.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
     },
     {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_slider.xml",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\layout\\dialog_slider.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogview.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\layout\\dialogview.xml"
     },
     {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
@@ -80,16 +84,8 @@
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admob_preference.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\src\\main\\res\\layout\\admob_preference.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
     },
     {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
@@ -100,111 +96,7 @@
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
     },
     {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
-    },
-    {
         "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admob_preference.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\layout\\admob_preference.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fullscreen_ad.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\src\\main\\res\\layout\\activity_fullscreen_ad.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialogview.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\src\\main\\res\\layout\\dialogview.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_slider.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\src\\main\\res\\layout\\dialog_slider.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LiveWallpaper\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
-    },
-    {
-        "merged": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
-        "source": "Q:\\PROGRAMARE\\Android\\LcdLiveWallpaper2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
     }
 ]

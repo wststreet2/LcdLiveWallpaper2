@@ -2,8 +2,6 @@ package org.kamehamehaaa.android.livewallpaper.candies;
 
 import org.kamehamehaaa.android.livewallpaper.engine.LCDLiveWallpaper;
 
-import android.util.Log;
-
 class rect {
 	public int x1, y1, x2, y2;
 	public boolean color;

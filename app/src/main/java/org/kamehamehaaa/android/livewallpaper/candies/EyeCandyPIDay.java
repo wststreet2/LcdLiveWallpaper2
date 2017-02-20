@@ -2,7 +2,6 @@ package org.kamehamehaaa.android.livewallpaper.candies;
 
 
 import org.kamehamehaaa.android.livewallpaper.engine.LCDLiveWallpaper;
-import org.kamehamehaaa.android.livewallpaper.engine.WriteClass;
 
 public class EyeCandyPIDay extends EyeCandy {
 
