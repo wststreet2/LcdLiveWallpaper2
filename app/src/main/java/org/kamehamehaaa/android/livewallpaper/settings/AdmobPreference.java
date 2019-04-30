@@ -25,14 +25,15 @@ public class AdmobPreference extends Preference {
     @Override
     protected View onCreateView(ViewGroup parent) {
         //override here to return the admob ad instead of a regular preference display
+        super.onCreateView(parent);
         LayoutInflater inflater = (LayoutInflater) getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        parent.setPadding(0,0,0,0);
+        parent.setPadding(0, 0, 0, 0);
         View view = inflater.inflate(R.layout.admob_preference, null);
-        AdView adView = (AdView)view.findViewById(R.id.adView);
+        AdView adView = (AdView) view.findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR)
                 .addTestDevice("8CF778710FC9EDD27F89354DE3172D50")
                 .addTestDevice("14D2A4FD15D042D93BECEAED1B0AE343").build();
-        adView.loadAd(adRequest);
+        //adView.loadAd(adRequest);
         //MobileAds.initialize(getContext(), "ca-app-pub-2569572093580074/1608209542");
 
         return view;

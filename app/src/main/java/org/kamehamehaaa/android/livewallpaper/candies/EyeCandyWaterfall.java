@@ -30,7 +30,6 @@ public class EyeCandyWaterfall extends EyeCandy {
 	private static short currNrStrings;
 	private static int chance;
 	private static boolean overlappedStrings;
-	private boolean wantlog = false;
 
 	public EyeCandyWaterfall() {
 		init();
@@ -90,11 +89,8 @@ public class EyeCandyWaterfall extends EyeCandy {
 		Random generator = new Random();
 		int value = generator.nextInt(101);
 
-		if (value >= 0 && value <= chance) {
-			return true;
-		}
+		return value >= 0 && value <= chance;
 
-		return false;
 	}
 
 	public void addNewString(wString s) {
@@ -117,6 +113,7 @@ public class EyeCandyWaterfall extends EyeCandy {
 		if (giveLife()) {
 			int col = generator.nextInt(width);
 
+			boolean wantlog = false;
 			if (overlappedStrings) {
 				short length = (short) (4 + generator.nextInt(7));
 				short speed = (short) (1 + generator.nextInt(4));

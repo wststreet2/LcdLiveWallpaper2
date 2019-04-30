@@ -17,13 +17,12 @@ class rect {
 }
 
 public class EyeCandyFlip extends EyeCandy {
-	private boolean[][] flip;
-	private rect[] rects;
+    private rect[] rects;
 	private int nrRects;
 	private int width, height;
 	private int totalflips;
 	public boolean up;
-	rect newRects[];
+	rect[] newRects;
 	int newRIndex;
 
 	public EyeCandyFlip() {
@@ -34,7 +33,7 @@ public class EyeCandyFlip extends EyeCandy {
 		width = LCDLiveWallpaper.getLCD_WIDTH();
 		height = LCDLiveWallpaper.getLCD_HEIGHT();
 
-		flip = new boolean[width][height];
+        boolean[][] flip = new boolean[width][height];
 		rects = new rect[64];
 
 		rects[0] = new rect(0, 0, width, height, true);
@@ -64,7 +63,7 @@ public class EyeCandyFlip extends EyeCandy {
 		boolean color = false;
 
 		for (i = 0; i < nrRects; i++) {
-			if (rects[i].splitType == true) {
+			if (rects[i].splitType) {
 				if (i % 2 == 0) {
 					color = !color;
 				}
@@ -100,12 +99,12 @@ public class EyeCandyFlip extends EyeCandy {
 
 		for (i = 0; i < nrRects - 1; i += 2) {
 
-			if (rects[i].splitType == true) {
+			if (rects[i].splitType) {
 				addRect(rects[i].x1, rects[i].y1, rects[i + 1].x2,
 						rects[i + 1].y2, color, false);
 			}
 
-			if (rects[i].splitType == false) {
+			if (!rects[i].splitType) {
 				addRect(rects[i].x1, rects[i].y1, rects[i + 1].x2,
 						rects[i + 1].y2, color, true);
 			}
@@ -121,7 +120,7 @@ public class EyeCandyFlip extends EyeCandy {
 		return newRects;
 	}
 
-	public boolean[][] draw(boolean mat[][]) {
+	public boolean[][] draw(boolean[][] mat) {
 		try {
 			int i, j, k;
 
@@ -145,7 +144,7 @@ public class EyeCandyFlip extends EyeCandy {
 				for (j = 0; j < height; j++) {
 					try {
 						mat[i][j] = false;
-					} catch (Error msg) {
+					} catch (Error ignored) {
 
 					}
 				}
@@ -162,7 +161,7 @@ public class EyeCandyFlip extends EyeCandy {
 							try {
 								mat[i][j] = color;
 
-							} catch (Error msg) {
+							} catch (Error ignored) {
 							}
 
 						}
@@ -172,7 +171,7 @@ public class EyeCandyFlip extends EyeCandy {
 			}
 
 			
-		} catch (Exception e) {
+		} catch (Exception ignored) {
 
 		}
 		return mat;

@@ -7,8 +7,7 @@ import org.kamehamehaaa.android.livewallpaper.engine.LCDLiveWallpaper;
 public class EyeCandyGradient extends EyeCandy {
 
 	private int[][] gradient;
-	private boolean[][] gradCopy;
-	private int width, height;
+    private int width, height;
 
 	public EyeCandyGradient() {
 		init();
@@ -16,11 +15,11 @@ public class EyeCandyGradient extends EyeCandy {
 
 	@Override
 	public final boolean[][] draw(boolean[][] matrix) {
-		gradCopy = new boolean[width][height];
+        boolean[][] gradCopy = new boolean[width][height];
 
 		for (int i = 0; i < height; i++)
 			for (int j = 0; j < width; j++)
-				gradCopy[j][i] = gradient[j][i]==1?true:false;
+				gradCopy[j][i] = gradient[j][i] == 1;
 
 		return gradCopy;
 	}
@@ -45,7 +44,7 @@ public class EyeCandyGradient extends EyeCandy {
 			for (int j = 0; j < width; j++)
 				gradient[j][i] = 255;
 
-		for (int i = 0 + margin; i < (height - margin) + 1; i++) {
+		for (int i = margin; i < (height - margin) + 1; i++) {
 			for (int j = 0; j < width; j++)
 				gradient[j][i] = (int) (i * (255.0 / height));
 		}

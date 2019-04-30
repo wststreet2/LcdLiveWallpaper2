@@ -8,8 +8,7 @@ import java.util.Calendar;
 
 @SuppressLint("SimpleDateFormat")
 public class WriteClass {
-	private boolean[][] displayMatrix;
-	private int cHeight = 7, cWidth = 5;
+    private int cWidth = 5;
 
 	public static boolean dispDate;
 	public static boolean dispTime;
@@ -66,11 +65,7 @@ public class WriteClass {
 		int incr;
 		boolean blackWhite; // 0 - black , 1 - white
 
-		if (blackBinary) {
-			blackWhite = false;
-		} else {
-			blackWhite = true;
-		}
+		blackWhite = !blackBinary;
 
 		if (!bigBinary) {
 			incr = 2;
@@ -171,24 +166,13 @@ public class WriteClass {
 
 		for (i = x; i < x + width; i++) {
 			for (j = lineNo; j > lineNo - height; j--) {
-				if (blackBinary == true)
-					displayMatrix2[i][j] = true;
-				else
-					displayMatrix2[i][j] = false;
+				displayMatrix2[i][j] = blackBinary;
 
 				if (i == x || i == x + width - 1)
-					if (blackBinary == true) {
-						displayMatrix2[i][j] = false;
-					} else {
-						displayMatrix2[i][j] = true;
-					}
+					displayMatrix2[i][j] = !blackBinary;
 
 				if (j == lineNo || j == lineNo - height + 1)
-					if (blackBinary == true) {
-						displayMatrix2[i][j] = false;
-					} else {
-						displayMatrix2[i][j] = true;
-					}
+					displayMatrix2[i][j] = !blackBinary;
 			}
 		}
 
@@ -269,7 +253,7 @@ public class WriteClass {
 
 		int start = 0;
 
-		if (dispDate == true) {
+		if (dispDate) {
 
 			start = (LCDLiveWallpaper.getLCD_WIDTH() / 2) - 23;
 			formattedDate = df.format(cal.getTime());
@@ -281,7 +265,7 @@ public class WriteClass {
 			}
 		}
 
-		if (dispTime == true) {
+		if (dispTime) {
 			if (clockType.equalsIgnoreCase("Decimal")) {
 				df = new SimpleDateFormat("HH:mm");
 				start = (LCDLiveWallpaper.getLCD_WIDTH() / 2) - 14;
@@ -313,7 +297,8 @@ public class WriteClass {
 				displayMatrix[k][j] = false;
 			}
 
-		switch (c) {
+        int cHeight = 7;
+        switch (c) {
 		case '0':
 
 			for (i = lineNo - 1; i > lineNo - cHeight + 1; i--) {
@@ -517,15 +502,15 @@ public class WriteClass {
 	// lineNo e practic linia pe care va scrie, coordonata y cea mai de jos a
 	// literei/numarului
 	{
-		displayMatrix = displayMatrix2;
+        boolean[][] displayMatrix = displayMatrix2;
 		int i = 0;
 		int spacing = 1;
 
 		for (i = 0; i < s.length(); i++) {
 			try {
 				displayMatrix = setCharacter(s.charAt(i), x, lineNo,
-						displayMatrix);
-			} catch (Exception e) {
+                        displayMatrix);
+			} catch (Exception ignored) {
 			}
 			x = x + cWidth + spacing;
 		}

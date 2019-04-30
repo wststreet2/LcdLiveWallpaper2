@@ -29,9 +29,7 @@ import com.google.firebase.analytics.FirebaseAnalytics;
 
 public class LCDLiveWallpaper extends WallpaperService {
 
-    private FirebaseAnalytics mFirebaseAnalytics;
-
-    private class MyWallpaperEngine extends Engine {
+	private class MyWallpaperEngine extends Engine {
 		private Handler mHandler = new Handler();
 		private SurfaceHolder mSurfaceHolder = null;
 		private Canvas mCanvas = null;
@@ -321,7 +319,7 @@ public class LCDLiveWallpaper extends WallpaperService {
 	private static MyWallpaperEngine engine;
 	private static Paint bg = new Paint();
 	private static Paint onPixelPaint = null;
-	private static boolean useCustomColors = false;
+
 	public static int getLCD_WIDTH() {
 		return LCD_WIDTH;
 	}
@@ -345,7 +343,7 @@ public class LCDLiveWallpaper extends WallpaperService {
 	@Override
 	public Engine onCreateEngine() {
 		context = getApplicationContext();
-        mFirebaseAnalytics = FirebaseAnalytics.getInstance(context);
+		FirebaseAnalytics mFirebaseAnalytics = FirebaseAnalytics.getInstance(context);
 		engine = new MyWallpaperEngine();
 		return engine;
 	}
@@ -422,7 +420,7 @@ public class LCDLiveWallpaper extends WallpaperService {
 	}
 
 	public static void setUseCustomColors(boolean b) {
-		useCustomColors = b;
+		boolean useCustomColors = b;
 	}
 
 }

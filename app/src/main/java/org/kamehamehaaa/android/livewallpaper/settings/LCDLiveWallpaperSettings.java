@@ -31,6 +31,11 @@ public class LCDLiveWallpaperSettings extends PreferenceActivity implements
 	}
 
 	@Override
+	protected boolean isValidFragment(String fragmentName) {
+		return LCDLiveWallpaperSettings.class.getName().equals(fragmentName);
+	}
+
+	@Override
 	protected void onResume() {
 		super.onResume();
 

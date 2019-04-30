@@ -36,9 +36,7 @@ public final class SeekBarPreference extends DialogPreference implements OnSeekB
     
     // Current value
     private int mCurrentValue;
-    
-    // View elements
-    private SeekBar mSeekBar;
+
     private TextView mValueText;
 
     public SeekBarPreference(Context context, AttributeSet attrs) {
@@ -64,7 +62,8 @@ public final class SeekBarPreference extends DialogPreference implements OnSeekB
 	((TextView) view.findViewById(R.id.max_value)).setText(Integer.toString(mMaxValue));
 
 	// Setup SeekBar
-	mSeekBar = (SeekBar) view.findViewById(R.id.seek_bar);
+        // View elements
+        SeekBar mSeekBar = (SeekBar) view.findViewById(R.id.seek_bar);
 	mSeekBar.setMax(mMaxValue - mMinValue);
 	mSeekBar.setProgress(mCurrentValue - mMinValue);
 	mSeekBar.setOnSeekBarChangeListener(this);
